@@ -3,11 +3,30 @@ h1{
     background-color:aqua;
 }
 p{
-    color:darkgreen
+    color:yellow
 }
 .hello{
     color:blueviolet;
 }
 #hello{
     color:crimson;
+}
+.yellow{
+    color:yellow
+}
+.red-backgroud{
+    background-color: red;
+
+}
+p{
+    color: blue;
+}
+strong{
+    background-color: yellow;
+}
+em{
+    background-color: red;
+}
+#example{
+    background-color: green;
 }
